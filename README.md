@@ -1,3 +1,4 @@
+[![Build Status](https://sukumarbhattacharjee04.visualstudio.com/subham-project/_apis/build/status/leodcap09.subham-project)](https://sukumarbhattacharjee04.visualstudio.com/subham-project/_build/latest?definitionId=13)
 
 # Contributing
 
